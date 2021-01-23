@@ -1,4 +1,4 @@
-#### Thanks, for considering to contribute to this repository! 
+animal-kau#### Thanks, for considering to contribute to this repository! 
 If you are looking forward to start contributing to beautiful world of open source. 
 **Start it right now.**
 
